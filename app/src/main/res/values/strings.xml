@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BusTrack</string>
+    <string name="map_style_url">https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json</string>
+</resources>

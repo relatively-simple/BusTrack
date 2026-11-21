@@ -1,0 +1,83 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- ── Top Telemetry Signal Waves (Radar) ── -->
+    <path
+        android:strokeColor="#00FF87"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M43,21 C49,17 59,17 65,21" />
+
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.2"
+        android:strokeLineCap="round"
+        android:pathData="M47,26 C51,23 57,23 61,26" />
+
+    <!-- Antenna Beacon Dot -->
+    <path
+        android:fillColor="#00FF87"
+        android:pathData="M54,29 A2.5,2.5 0 1,0 54,34 A2.5,2.5 0 1,0 54,29" />
+
+    <!-- ── Bus Outer Glow / Accent Outline ── -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M44,35 C40,35 37,38 37,42 L37,71 C37,74 39,76 42,76 L66,76 C69,76 71,74 71,71 L71,42 C71,38 68,35 64,35 Z" />
+
+    <!-- ── Bus Main Dark Chassis ── -->
+    <path
+        android:fillColor="#0B1522"
+        android:pathData="M44,37 C41.5,37 39,39.5 39,43 L39,70 C39,72 40.5,74 43,74 L65,74 C67.5,74 69,72 69,70 L69,43 C69,39.5 66.5,37 64,37 Z" />
+
+    <!-- ── Route Destination Screen ── -->
+    <path
+        android:fillColor="#00FF87"
+        android:pathData="M46,39 L62,39 C62.5,39 63,39.5 63,40 L63,42 C63,42.5 62.5,43 62,43 L46,43 C45.5,43 45,42.5 45,42 L45,40 C45,39.5 45.5,39 46,39 Z" />
+
+    <!-- ── Windshield (Luminous Cyan Glass) ── -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M43,45 C41.5,45 41,46.5 41,48 L41,56 C41,57 41.5,58 42.5,58 L65.5,58 C66.5,58 67,57 67,56 L67,48 C67,46.5 66.5,45 65,45 Z" />
+
+    <!-- Windshield Reflection Highlight -->
+    <path
+        android:fillColor="#B2F7FF"
+        android:pathData="M43,47 L51,47 L47,56 L42,56 Z" />
+
+    <!-- ── Side Mirrors ── -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,48 C33,48 32,49 32,50 L32,55 C32,56 33,57 34,57 L37,56 L37,49 Z" />
+
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M74,48 C75,48 76,49 76,50 L76,55 C76,56 75,57 74,57 L71,56 L71,49 Z" />
+
+    <!-- ── Headlights (Bright Glowing Neon) ── -->
+    <!-- Left Headlight -->
+    <path
+        android:fillColor="#00FF87"
+        android:pathData="M41,63 C40.5,63 40,63.5 40,64 L40,67 C40,67.5 40.5,68 41,68 L47,68 C47.5,68 48,67.5 48,67 L48,64 C48,63.5 47.5,63 47,63 Z" />
+
+    <!-- Right Headlight -->
+    <path
+        android:fillColor="#00FF87"
+        android:pathData="M61,63 C60.5,63 60,63.5 60,64 L60,67 C60,67.5 60.5,68 61,68 L67,68 C67.5,68 68,67.5 68,67 L68,64 C68,63.5 67.5,63 67,63 Z" />
+
+    <!-- ── Center Tech Grille ── -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,64 L57,64 C57.5,64 58,64.5 58,65 L58,67 C58,67.5 57.5,68 57,68 L51,68 C50.5,68 50,67.5 50,67 L50,65 C50,64.5 50.5,64 51,64 Z" />
+
+    <!-- ── Wheels (Bottom Tread) ── -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M41,75 L47,75 L47,78 C47,78.5 46.5,79 46,79 L42,79 C41.5,79 41,78.5 41,78 Z" />
+
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M61,75 L67,75 L67,78 C67,78.5 66.5,79 66,79 L62,79 C61.5,79 61,78.5 61,78 Z" />
+</vector>
